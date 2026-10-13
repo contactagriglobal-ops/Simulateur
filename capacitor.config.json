@@ -1,0 +1,6 @@
+{
+  "appId": "ne.goniplus.simulateur",
+  "appName": "GONI Plus",
+  "webDir": "www",
+  "android": { "backgroundColor": "#EEF1EC" }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "goni-plus-simulateur",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simulateur GONI Plus : rentabilité, investissement, trésorerie et plan d'affaires des projets agricoles au Niger.",
+  "dependencies": {
+    "@capacitor/android": "7.6.9",
+    "@capacitor/cli": "7.6.9",
+    "@capacitor/core": "7.6.9",
+    "@capacitor/filesystem": "7.1.9",
+    "@capacitor/share": "7.0.4"
+  }
+}
